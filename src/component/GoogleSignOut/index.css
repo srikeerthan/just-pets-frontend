@@ -1,0 +1,11 @@
+.FrameLoggedIn{
+    background-color: #636d7f;
+    width: 70vh;
+    height: 70vh;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 10px #383c43;
+}
